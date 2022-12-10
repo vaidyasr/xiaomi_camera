@@ -1,0 +1,9 @@
+{
+  "domain": "xiaomi_camera",
+  "name": "Xiaomi XiaoFang Camera with fang-hacks",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/xiaomi_camera",
+  "dependencies": ["ffmpeg"],
+  "codeowners": ["@vaidyasr"],
+  "iot_class": "local_polling"
+}
